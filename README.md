@@ -1,5 +1,5 @@
-Welcome to Bremer AS
-====================
+Welcome
+=======
 
 This account will share source code to get you started.
 
